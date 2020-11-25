@@ -1,0 +1,6 @@
+Prateek Sharma
+
+skillset:
+
+-Leadership
+
