@@ -1,4 +1,4 @@
-# Hey this is Abhishek
+# Hey this is Abhishek Gautam
 
 # Skills:
 C, C++, HTML, CSS, Js
