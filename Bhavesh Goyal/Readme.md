@@ -1,4 +1,4 @@
-Hi I am Bhavesh Goyal.\n
-I am an aspiring Software Developer Engineer.\n
-I have learnt C/C++/Java/Python.\n
-Currently i am working on Android Development with Kotlin.
+Hi I am Bhavesh Goyal.
+I am an aspiring Software Developer Engineer.
+I have learnt C/C++/Java/Python.
+Currently I am learning on Android Development with Kotlin.
