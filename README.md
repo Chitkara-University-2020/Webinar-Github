@@ -1,5 +1,4 @@
 # Hey this is Abhishek
 
 # Skills:
-Wev Development
-C++
+C, C++, HTML, CSS, Js
