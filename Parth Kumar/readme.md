@@ -9,3 +9,5 @@ Our team will majorly focus on the underprivileged parts of India as it was foun
 The app will work as an intermediate b/w the hospital and the patient through a smart chat bot available anytime. Also the app has the updated information about the nearest trauma center for any emergency case. 
 The app will access location to update about the physicians available nearby at that time.
 The app’s interface development has been started on Android Studio. The backend will be MySQL. 
+# Link to presentation: 
+https://docs.google.com/presentation/d/19uYc2EL3ZjqYqAAJ3ErJ_fhb4LuCzcMElhscIBiXinY/edit?usp=sharing
